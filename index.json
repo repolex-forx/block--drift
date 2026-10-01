@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "drift",
+  "versions": [
+    {
+      "commit": "ca4a55360da354801162b56f407638b55d4ca008",
+      "tag": "main",
+      "parsed_at": "2026-10-01T08:50:31.733764+00:00"
+    }
+  ]
+}
