@@ -84,6 +84,217 @@
       ],
       "ast": [
         "aggregate/ast/ca4a55360da354801162b56f407638b55d4ca008/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/ca4a55360da354801162b56f407638b55d4ca008.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "charm.land/bubbles/v2",
+          "ecosystem": "GO",
+          "version": "2.2.1",
+          "githubOrg": "charmbracelet",
+          "githubRepo": "bubbles",
+          "githubCommit": "490948109eb4731927ba2f4cd464d8175a9630d7",
+          "githubTag": "v2.2.1",
+          "githubUrl": "https://github.com/charmbracelet/bubbles",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "charm.land/bubbletea/v2",
+          "ecosystem": "GO",
+          "version": "2.0.9",
+          "githubOrg": "charmbracelet",
+          "githubRepo": "bubbletea",
+          "githubCommit": "73b6d91ac1c3854dd4af046ab5f9e51d3b3b4290",
+          "githubTag": "v2.0.9",
+          "githubUrl": "https://github.com/charmbracelet/bubbletea",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "charm.land/lipgloss/v2",
+          "ecosystem": "GO",
+          "version": "2.0.6",
+          "githubOrg": "charmbracelet",
+          "githubRepo": "lipgloss",
+          "githubCommit": "733ce53541bb688fd735524b665e0d96e35433bb",
+          "githubTag": "v2.0.6",
+          "githubUrl": "https://github.com/charmbracelet/lipgloss",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/alecthomas/kong",
+          "ecosystem": "GO",
+          "version": "1.16.1",
+          "githubOrg": "alecthomas",
+          "githubRepo": "kong",
+          "githubCommit": "0678fd30af8be8bae6dc9f9c6f143cc549450be2",
+          "githubTag": "v1.16.1",
+          "githubUrl": "https://github.com/alecthomas/kong",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/atotto/clipboard",
+          "ecosystem": "GO",
+          "version": "0.1.4",
+          "githubOrg": "atotto",
+          "githubRepo": "clipboard",
+          "githubCommit": "e4aee1922c628e6966acd4207c408df132dc6fb5",
+          "githubTag": "v0.1.4",
+          "githubUrl": "https://github.com/atotto/clipboard",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/charmbracelet/x/ansi",
+          "ecosystem": "GO",
+          "version": "0.11.8",
+          "githubOrg": "charmbracelet",
+          "githubRepo": "x",
+          "githubUrl": "https://github.com/charmbracelet/x",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/sahilm/fuzzy",
+          "ecosystem": "GO",
+          "version": "0.1.3",
+          "githubOrg": "sahilm",
+          "githubRepo": "fuzzy",
+          "githubCommit": "8aadc77d46cf09f5dc529d41358a94a24516c0b6",
+          "githubTag": "v0.1.3",
+          "githubUrl": "https://github.com/sahilm/fuzzy",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "znkr.io/diff",
+          "ecosystem": "GO",
+          "version": "1.0.1",
+          "githubOrg": "znkr",
+          "githubRepo": "diff",
+          "githubCommit": "cfe6dd5ed7fff8b7c7ad1e90c2a2cad151948620",
+          "githubTag": "v1.0.1",
+          "githubUrl": "https://github.com/znkr/diff",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/charmbracelet/colorprofile",
+          "ecosystem": "GO",
+          "version": "0.4.3",
+          "githubOrg": "charmbracelet",
+          "githubRepo": "colorprofile",
+          "githubCommit": "d085584efb48f2ad470e96cd0f3dcb8cc68a034b",
+          "githubTag": "v0.4.3",
+          "githubUrl": "https://github.com/charmbracelet/colorprofile",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/charmbracelet/ultraviolet",
+          "ecosystem": "GO",
+          "version": "0.0.0-20260811164956-006e29f97886",
+          "githubOrg": "charmbracelet",
+          "githubRepo": "ultraviolet",
+          "githubUrl": "https://github.com/charmbracelet/ultraviolet",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/charmbracelet/x/term",
+          "ecosystem": "GO",
+          "version": "0.2.2",
+          "githubOrg": "charmbracelet",
+          "githubRepo": "x",
+          "githubUrl": "https://github.com/charmbracelet/x",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/charmbracelet/x/termios",
+          "ecosystem": "GO",
+          "version": "0.1.1",
+          "githubOrg": "charmbracelet",
+          "githubRepo": "x",
+          "githubUrl": "https://github.com/charmbracelet/x",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/charmbracelet/x/windows",
+          "ecosystem": "GO",
+          "version": "0.2.2",
+          "githubOrg": "charmbracelet",
+          "githubRepo": "x",
+          "githubUrl": "https://github.com/charmbracelet/x",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/clipperhouse/displaywidth",
+          "ecosystem": "GO",
+          "version": "0.11.0",
+          "githubOrg": "clipperhouse",
+          "githubRepo": "displaywidth",
+          "githubCommit": "b6da6e784d7796398607efa9883b4d9f6e7be509",
+          "githubTag": "v0.11.0",
+          "githubUrl": "https://github.com/clipperhouse/displaywidth",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/clipperhouse/uax29/v2",
+          "ecosystem": "GO",
+          "version": "2.7.0",
+          "githubOrg": "clipperhouse",
+          "githubRepo": "uax29",
+          "githubCommit": "b03477d1fbba89df95a6b55da0a222b2e2228610",
+          "githubTag": "v2.7.0",
+          "githubUrl": "https://github.com/clipperhouse/uax29",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/lucasb-eyer/go-colorful",
+          "ecosystem": "GO",
+          "version": "1.4.1",
+          "githubOrg": "lucasb-eyer",
+          "githubRepo": "go-colorful",
+          "githubCommit": "315b48282c63bac7b48ba128d0c87b7f827b2285",
+          "githubTag": "v1.4.1",
+          "githubUrl": "https://github.com/lucasb-eyer/go-colorful",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/mattn/go-runewidth",
+          "ecosystem": "GO",
+          "version": "0.0.27",
+          "githubOrg": "mattn",
+          "githubRepo": "go-runewidth",
+          "githubCommit": "f2d8bfeff22a28e1d7157559144dcdcab0255152",
+          "githubTag": "v0.0.27",
+          "githubUrl": "https://github.com/mattn/go-runewidth",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/muesli/cancelreader",
+          "ecosystem": "GO",
+          "version": "0.2.2",
+          "githubOrg": "muesli",
+          "githubRepo": "cancelreader",
+          "githubCommit": "d11f1e77abf7f8d69d81553ccaaf0b81163541a6",
+          "githubTag": "v0.2.2",
+          "githubUrl": "https://github.com/muesli/cancelreader",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/rivo/uniseg",
+          "ecosystem": "GO",
+          "version": "0.4.7",
+          "githubOrg": "rivo",
+          "githubRepo": "uniseg",
+          "githubCommit": "03509a98a092b522b2ff0de13e53513d18b3b837",
+          "githubTag": "v0.4.7",
+          "githubUrl": "https://github.com/rivo/uniseg",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/xo/terminfo",
+          "ecosystem": "GO",
+          "version": "0.0.0-20220910002029-abceb7e1c41e",
+          "githubOrg": "xo",
+          "githubRepo": "terminfo",
+          "githubUrl": "https://github.com/xo/terminfo",
+          "source": "build_file:go.mod"
+        }
       ]
     }
   ],
