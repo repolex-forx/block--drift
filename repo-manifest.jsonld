@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/drift/commit/ca4a55360da354801162b56f407638b55d4ca008",
       "git:hexsha": "ca4a55360da354801162b56f407638b55d4ca008",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-01T08:50:31.699623+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/drift/commit/435e29da0e4964294b5d8a8ae1b232169c61c454",

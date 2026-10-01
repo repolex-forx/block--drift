@@ -295,7 +295,9 @@
           "githubUrl": "https://github.com/xo/terminfo",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/ca4a55360da354801162b56f407638b55d4ca008/chunk-001.nq.gz",
+      "dep": "dep/ca4a55360da354801162b56f407638b55d4ca008.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
